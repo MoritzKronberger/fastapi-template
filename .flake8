@@ -1,0 +1,5 @@
+# Reference: https://flake8.pycqa.org/en/latest/user/configuration.html
+
+[flake8]
+exclude = .git,__pycache__,venv
+docstring-convention=google
